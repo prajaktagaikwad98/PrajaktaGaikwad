@@ -72,15 +72,31 @@
 
 ## 💼 Professional Experience
 
-**Python Backend Developer | Software Engineer**
+### **Software Developer | r-pac International**
+📍 Maharashtra, India | **Apr 2025 – Jul 2026**
 
-- 4+ years of experience in software development.
-- Developed backend applications and RESTful APIs using Python and Django.
-- Worked on database-driven applications and business process automation.
-- Integrated frontend applications with backend services.
-- Focused on application scalability, performance, and maintainable architecture.
+**Responsibilities:**
+- Automated business workflows using **Python, Pandas, and NumPy**, streamlining operational processes and improving efficiency.
+- Integrated **Microsoft Graph API with OAuth 2.0** to automate Outlook email workflows.
+- Optimized **MS SQL Server queries and stored procedures** to improve reporting performance and data retrieval.
+- Managed application deployment and maintenance on **Virtual Machines (VMs)**.
+- Utilized **Azure DevOps** for version control, release management, and project tracking.
 
----
+### **Software Developer | Myrah Consulting Services (Esarwa)**
+📍 Andheri, Maharashtra | **Apr 2023 – Apr 2025**
+
+**Responsibilities:**
+- Developed and maintained **Angular-based applications** across Esarwa's accounting.
+- Contributed to backend development using **Django REST Framework, Angular, and SQL** across Esarwa's accounting, warehouse, and CRM product suite.
+- Optimized backend performance through query tuning, caching strategies, and MySQL optimization.
+- Managed application deployment and administration on **AWS**, supporting scalable and reliable application environments.
+
+### **Localization Engineer | Word Publishing**
+📍 Maharashtra, India | **Sep 2021 – Mar 2023**
+
+**Responsibilities:**
+- Coordinated project deliverables while maintaining quality, accuracy, and deadlines.
+- Collaborated directly with clients to understand requirements and ensure smooth project execution.
 
 ## 🚀 Key Projects
 
@@ -131,12 +147,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prajaktagaikwad98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktagaikwad98&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=prajaktagaikwad98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
